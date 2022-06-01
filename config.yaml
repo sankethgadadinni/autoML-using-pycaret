@@ -1,0 +1,4 @@
+config:
+  modeltype: regression
+  modelname: 
+  num_models: 5
